@@ -23,6 +23,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-BBBB22?style=for-the-badge&logo=firebase&logoColor=red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-👩‍💻 I work at EDAG Group as a Software Engineer
+👩‍💻 I work at EDAG Group as a Software Engineer.
 
 [mehmet@mehmetfd.dev](mailto:mehmet@mehmetfd.dev)
