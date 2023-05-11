@@ -26,3 +26,5 @@
 👩‍💻 I work at EDAG Group as a Software Engineer.
 
 [mehmet@mehmetfd.dev](mailto:mehmet@mehmetfd.dev)
+
+![](https://komarev.com/ghpvc/?username=mehmet-f-dogan&color=blueviolet)
