@@ -15,6 +15,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-111111?style=for-the-badge&logo=astro&logoColor=orange)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-66BB66?style=for-the-badge&logo=spring&logoColor=white)
 
