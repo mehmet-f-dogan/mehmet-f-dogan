@@ -5,7 +5,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mehmetfd.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-f-dogan/)
 
-## 🛠 Skills
+## Stuff I like
 
 ![Java](https://img.shields.io/badge/Java-DDDDDD?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=61DAFB)
